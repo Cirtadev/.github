@@ -12,7 +12,7 @@ We design, build, and operate products that focus on reliability, observability,
 
 ## Open Source
 
-We maintain developer tools and libraries used across our products, including `@otalan/cli` and `@otalan/sdk`, a Bun-based CLI for bundling and publishing OTA updates.
+We maintain developer tools and libraries used across our products, including `@otalan/cli` and `@otalan/sdk`.
 
 ## Links
 
